@@ -1,3 +1,4 @@
+/* this is a simple change, just for demo */
 #include <Stepper.h>
 
 #define STEPS 200
